@@ -4,6 +4,7 @@
 - 📫 How to reach me sofiapagura@gmail.com
 
 This is a repository made for Radium Rocket's course: Software Developer. 
+
 You can see what I'm doing in https://sofpag.github.io/dosko-g-basd-2021-class-3/ 
 
 
