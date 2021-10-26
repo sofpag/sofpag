@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sofía Pagura
-- 👀 I’m interested in history, fiction novels, baking and learn always more, so, code is very interesting.
+- 👀 I’m interested in history, fiction novels, baking and learn always more and more, so, code is very interesting.
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 📫 How to reach me sofiapagura@gmail.com
 
