@@ -1,11 +1,14 @@
-- 👋 Hi, I’m Sofía Pagura
-- 👀 I’m interested in history, fiction novels, baking and learn always more and more, so, code is very interesting.
-- 🌱 I’m currently learning HTML, CSS and JavaScript
-- 📫 How to reach me sofiapagura@gmail.com
+#           👋 Hi, I’m Sofía 
+##  A newbie to the world of coding. 
+
+- 🔭 You can see what I'm doing in https://github.com/sofpag/Portal-News-and-suscribe-section
+- 🌱 I’m currently learning JavaScript and a lot more thank to Radium Rocket!
+
+
+
 
 This is a repository made for Radium Rocket's course: Software Developer. 
 
-You can see what I'm doing in https://sofpag.github.io/dosko-g-basd-2021-class-3/ 
 
 
 <!---
