@@ -1,8 +1,6 @@
 #           👋 Hi, I’m Sofía 
 
-
-This is a repository made for Radium Rocket's course: Software Developer. 
-
+Interested in QA
 
 
 <!---
